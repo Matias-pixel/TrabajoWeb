@@ -1,0 +1,98 @@
+/*                  TODOOOO                                                                           */
+*{
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*HEADER*/
+
+header{
+    background: #1B89DE;
+    width: 100%;
+    clear: both;
+    content: '';
+    display: table;
+    
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    padding: 8px;
+    float: left;
+}
+
+nav{
+    float: left;
+    font-size: 20px;
+    margin-left: 25px;
+    position: relative;
+
+}
+
+
+nav ul li{
+    list-style: none;
+    margin-left: 70px;
+    padding: 20px 0;
+    float:left;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+section{
+    background-color: blueviolet;
+    width: 70%;
+    float: left;
+    margin-top: 10px;
+
+    display: block;
+}
+
+aside{
+    background-color: coral;
+    float: right;
+    width: 29%;
+    margin-right: 5px;
+    margin-top: 10px;
+
+    display: block;
+    
+}
+
+footer{
+    background: #1B89DE;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    display: block;
+}
+
+/*-----------------------------------------------------------CONTACTENOS-----------------------------------------------------------*/
+
+.con-izquierda{
+    background-color: #1B89DE;
+    width: 45%;
+    
+}
+
+.con-derecha{
+    background-color: aqua;
+    width: 50%;
+    float: right;
+
+
+
+}
+
+
+
+
+
+
+
+
